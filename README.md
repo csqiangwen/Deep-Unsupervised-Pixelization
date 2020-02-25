@@ -38,3 +38,5 @@ $ bash ./test.sh
 ```  
 More testing flags in the file `./options/base_options.py`.  
 All testing results will be shown in the directory `./results_pixelization/`.
+## Note
+Since the pretrained model has been used in commerce, it has not been released.
