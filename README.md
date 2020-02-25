@@ -41,7 +41,7 @@ All testing results will be shown in the directory `./results_pixelization/`.
 ## Note
 Since the pretrained model has been used in commerce, it has not been released.
 ## Acknowledgments
-Part of the code is based upon (pytorch-CycleGAN-and-pix2pix)[https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix].
+Part of the code is based upon [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 ## Citation
 @article{han2018deep,
   title={Deep unsupervised pixelization},
