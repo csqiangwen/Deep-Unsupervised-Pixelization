@@ -12,7 +12,7 @@ ACM Transactions on Graphics (SIGGRAPH Asia 2018 issue), 2018.
 - Ubuntu 16.04 LTS
 ## Dataset
 ### Training Dataset
-We collect 900 clip arts and 900 pixel arts for trianing our method. The folders named `trainA` and `trainB` contain the clip arts and pixel arts respectively [here](https://drive.google.com/open?id=1qDXB5g0Cb0VwISXwnfeiehPHuTgxWhdG).
+Create the folders `trainA` and `trainB` in the directory `./samples/`. Note that `trainA` and `trainB` contain the clip arts to be pixelized and pixel arts to be depixelized respectively.
 ### Testing Dataset
 Create the folders `testA` and `testB` in the directory `./samples/`. Note that `testA` and `testB` contain the clip arts to be pixelized and pixel arts to be depixelized respectively.
 ## Training
@@ -39,7 +39,7 @@ $ bash ./test.sh
 More testing flags in the file `./options/base_options.py`.  
 All testing results will be shown in the directory `./results_pixelization/`.
 ## Note
-Since the pretrained model has been used in commerce, it has not been released.
+Since this proposed method has been used in commerce, the pretrained model and training dataset have not been released.
 ## Acknowledgments
 Part of the code is based upon [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 ## Citation
