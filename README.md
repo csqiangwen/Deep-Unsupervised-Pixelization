@@ -43,6 +43,7 @@ Since the pretrained model has been used in commerce, it has not been released.
 ## Acknowledgments
 Part of the code is based upon [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 ## Citation
+```
 @article{han2018deep,
   title={Deep unsupervised pixelization},
   author={Han, Chu and Wen, Qiang and He, Shengfeng and Zhu, Qianshu and Tan, Yinjie and Han, Guoqiang and Wong, Tien-Tsin},
@@ -53,3 +54,4 @@ Part of the code is based upon [pytorch-CycleGAN-and-pix2pix](https://github.com
   year={2018},
   publisher={ACM New York, NY, USA}
 }
+```
