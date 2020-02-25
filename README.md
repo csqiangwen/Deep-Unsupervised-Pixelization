@@ -39,7 +39,7 @@ $ bash ./test.sh
 More testing flags in the file `./options/base_options.py`.  
 All testing results will be shown in the directory `./results_pixelization/`.
 ## Note
-Since this proposed method has been used in commerce, the pretrained model and training dataset have not been released.
+Since this proposed method has been used in commerce, we cannot release the pretrained model and training dataset.
 ## Acknowledgments
 Part of the code is based upon [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 ## Citation
