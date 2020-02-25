@@ -40,3 +40,16 @@ More testing flags in the file `./options/base_options.py`.
 All testing results will be shown in the directory `./results_pixelization/`.
 ## Note
 Since the pretrained model has been used in commerce, it has not been released.
+## Acknowledgments
+Part of the code is based upon (pytorch-CycleGAN-and-pix2pix)[https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix].
+## Citation
+@article{han2018deep,
+  title={Deep unsupervised pixelization},
+  author={Han, Chu and Wen, Qiang and He, Shengfeng and Zhu, Qianshu and Tan, Yinjie and Han, Guoqiang and Wong, Tien-Tsin},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={37},
+  number={6},
+  pages={1--11},
+  year={2018},
+  publisher={ACM New York, NY, USA}
+}
