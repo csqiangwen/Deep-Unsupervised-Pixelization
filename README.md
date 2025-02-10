@@ -1,7 +1,7 @@
 # Deep-Unsupervised-Pixelization
 ## Paper
 [Deep Unsupervised Pixelization](http://www.cse.cuhk.edu.hk/~ttwong/papers/pixel/pixel.pdf) and [Supplementary Material](http://www.cse.cuhk.edu.hk/~ttwong/papers/pixel/pixel-supp.pdf).  
-Chu Han^, Qiang Wen^, Shengfeng He*, Guoqiang Han, and Tien-Tsin Wong. (^joint first authors)  
+Chu Han^, Qiang Wen^, Shengfeng He*, Yinjie tan, Qianshu Zhu, Guoqiang Han, and Tien-Tsin Wong. (^joint first authors)  
 ACM Transactions on Graphics (SIGGRAPH Asia 2018 issue), 2018.  
 ## ![Our teaser](./teaser/teaser.png)
 ## Requirement
